@@ -1,1 +1,3 @@
-# code-snippets-helper
+# docs-helper
+---
+An util tool to help making and checking your documentation's code snippets.
